@@ -13,6 +13,13 @@ const allowedChannels = ['GNTRBT3QA',  // bot squad
 'CMVMYBD1S',  // mean team
 'D9ZL22ECB', // personal dev channel
 'C2TJFKL1W', // random
+'GU1NQ0ZF0', // coding music
+'GNTRBT3QA', // bot squad
+'GQL9TGMKK', // Check out with jason
+'GTVV1LFFD', // board games
+'CE9ATJYQ2', // bacon
+'GRR57RETZ', // exiled
+'GTBH5MZRN', // MX lunch                         
 ] 
 
 app.use(bodyParser());
